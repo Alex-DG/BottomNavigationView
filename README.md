@@ -1,0 +1,3 @@
+# BottomNavigationView
+
+![demo](BottomNavigationViewGIF.gif)
